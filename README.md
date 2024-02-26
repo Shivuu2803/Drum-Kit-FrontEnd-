@@ -41,5 +41,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests.<br>
 4. Push to the branch: git push origin feature/new-feature.<br>
 5. Open a pull request.<br>
 
-<h1>License</h1>
-This project is licensed under the MIT License.
+
